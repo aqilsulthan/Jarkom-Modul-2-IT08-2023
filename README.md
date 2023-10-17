@@ -745,6 +745,3 @@ Maka ketika mengakses link `lynx http://www.parikesit.abimanyu.it08.com/public/i
 
 ![Foto](./img/20.png)
 
----
-# Kendala
-Soal sedikit membingungkan karena perintah yang cukup rancu dan butuh pembiasaan penggunaan GNS3 yang tidak persisten
