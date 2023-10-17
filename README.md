@@ -671,10 +671,8 @@ Listen 14400
 # vim: syntax=apache ts=4 sw=4 sts=4 sr noet
 ```
 Akibatnya, jika kita hanya mengakses `lynx http://www.rjp.baratayuda.abimanyu.it08.com`, maka tampilannya akan menjadi berikut
-![Foto](./img/17a.png)
 
 Kita harus memasukkan alamt yang lebih spesifik dengan menambahkan `:port` dibelakangnya seperti `lynx http://www.rjp.baratayuda.abimanyu.it08.com:14000` dan `lynx http://www.rjp.baratayuda.abimanyu.it08.com:14400`
-![Foto](./img/17b.png)
 
 ---
 ### Soal 18
@@ -704,7 +702,6 @@ service apache2 start
 service apache2 status
 ```
 Maka ketika kita mengakses lynx http://www.rjp.baratayuda.abimanyu.it08.com:14000 atau lynx http://www.rjp.baratayuda.abimanyu.it08.com:14400 akan ditunjukkan halaman autentifikasi user dan masukkan password yang sudah ditentukan (baratayudait08)
-![Foto](./img/18.png)
 
 ---
 ### Soal 19
